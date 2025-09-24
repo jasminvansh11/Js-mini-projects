@@ -6,7 +6,7 @@ Each project helped me understand **DOM manipulation** and apply JavaScript conc
 ---
 
 ## 🔗 Live Projects
-👉 [View All Projects Here]([text](https://javascriptminiprojects06.netlify.app/))
+👉 [View All Projects Here](https://javascriptminiprojects06.netlify.app/)
 
 ---
 
